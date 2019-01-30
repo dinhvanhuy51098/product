@@ -1,0 +1,55 @@
+font-face{
+    font-family: MyFont;
+    font-weight: 100;
+}
+body{
+    font-family: MyFont;
+    width: 100%
+}
+.mychoice{
+    text-align: center;
+    margin: 0 auto;
+    padding: 7px;
+    border: 1px solid #c8bebe;
+    border-radius: 15px;
+    width: 70%;
+    margin-bottom: 2%;
+    margin-left: 20%;
+}
+.btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 15%;
+    background-color: #f8a5a8;
+    border-radius: 5px;
+    color: #fff;
+    margin-right: 2%;
+    font-family: MyFont;
+    font-weight: 400;
+}
+.clear {
+    clear: both;
+}
+.search {
+    border: 0;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 64%;
+    margin-left: 2%;
+    font-family: MyFont;
+}
+
+
+input.btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 15%;
+    background-color: #f8a5a8;
+    border-radius: 5px;
+    color: #fff;
+    margin-right: 2%;
+    font-family: MyFont;
+    font-weight: 400;
+}
